@@ -1,6 +1,9 @@
 # Smart Assessments Solver
 > # ⚠️ *DISCLAIMER:* This script is intended for educational purposes only.
 We are not responsible for any harm or damages caused by this script. Use at your own risk.
+
+> ## The script won't necessarily work in real life
+In order to protect the abuse of this script, we didn't add the critical parts (such as Selenium Selectors) in the scripts. The script still has the same effect as it had before (a perfect thing to learn from)
 ## How to setup on your PC
 
 First of all, clone this repo to your computer:
