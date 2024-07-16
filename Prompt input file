@@ -1,18 +1,18 @@
 def process_prompt(prompt):
-  """Processes the given prompt.
+  """prompt  process .
 
   Args:
-    prompt: The user-provided prompt.
+    prompt: jo prompt dia h.
   """
 
-  print("You said:", prompt)
+  print("You saide:", prompt)
   # Add  actions :
   # -  responses based on tha prompt
   # - Calling functions 
   # - Saving  to a file
 
 if __name__ == "__main__":
-  user_prompt = input("Enter  prompt: ")
+  user_prompt = input("  prompt: ")
   process_prompt(user_prompt)
 
 if prompt == "please tailor according to ur needs":
