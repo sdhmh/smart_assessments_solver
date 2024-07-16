@@ -1,0 +1,31 @@
+def process_prompt(prompt):
+  """Processes the given prompt.
+
+  Args:
+    prompt: The user-provided prompt.
+  """
+
+  print("You said:", prompt)
+  # Add  actions :
+  # -  responses based on tha prompt
+  # - Calling functions 
+  # - Saving  to a file
+
+if __name__ == "__main__":
+  user_prompt = input("Enter  prompt: ")
+  process_prompt(user_prompt)
+
+if prompt == "please tailor according to ur needs":
+    print("")
+  elif prompt == "please tailor according to ur needs":
+    print("please tailor according to ur needs")
+  else:
+    print("please tailor according to ur needs")
+
+def do_something_with_prompt(prompt):
+    # code lagao
+
+  process_prompt(prompt)
+
+with open("prompts.txt", "a") as f:
+    f.write(prompt + "\n")
