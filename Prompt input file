@@ -1,5 +1,5 @@
 def process_prompt(prompt):
-  """prompt  process .
+  """prompt  process.
 
   Args:
     prompt: jo prompt dia h.
