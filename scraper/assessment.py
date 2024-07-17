@@ -17,7 +17,10 @@ TOTAL_QUIZZES = ()
 QUIZ_QUESTION = ()
 QUIZ_OPTIONS = ()
 QUIZ_SUBMIT = ()
-CHECK_ANSWER_CORRECT = ()
+CHECK_ANSWER_CORRECT = (
+    By.XPATH,
+    '//div[contains(@class, "class_of_parent") and .//i[contains(@class, "class of the grandchild")]]'
+)
 EXPLANATION = ()
 QUIZ_LOADER = ()
 
