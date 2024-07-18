@@ -1,4 +1,7 @@
 # Smart Assessments Solver
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsdhmh%2Fsmart_assessments_solver&count_bg=%231C4000&title_bg=%233B5B62&icon=&icon_color=%23E7E7E7&title=Total+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 > # ⚠️ *DISCLAIMER:* This script is intended for educational purposes only.
 We are not responsible for any harm or damages caused by this script. Use at your own risk.
 
